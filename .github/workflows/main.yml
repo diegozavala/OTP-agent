@@ -1,0 +1,14 @@
+name: Jules PR Reviewer
+on:
+  pull_request:
+    types: [ready_for_review]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-labs-code/jules-invoke@v1
+        with:
+          prompt: |
+            Review this pull request. Check for code quality, 
+            potential bugs, and adherence to our project standards.
