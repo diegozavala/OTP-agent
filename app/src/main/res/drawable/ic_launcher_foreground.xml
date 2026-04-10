@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Key icon representing OTP/security -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C48.48,28 44,32.48 44,38 C44,42.12 46.6,45.64 50.2,47.04 L50.2,56 L44,56 L44,62 L50.2,62 L50.2,68 L57.8,68 L57.8,47.04 C61.4,45.64 64,42.12 64,38 C64,32.48 59.52,28 54,28 Z M54,42 C51.79,42 50,40.21 50,38 C50,35.79 51.79,34 54,34 C56.21,34 58,35.79 58,38 C58,40.21 56.21,42 54,42 Z" />
+</vector>
