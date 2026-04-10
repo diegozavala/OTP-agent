@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTP Agent</string>
+    <string name="app_description">Automatically detects OTP codes from your notifications and copies them to the clipboard.</string>
+    <string name="status_active">Service is ACTIVE</string>
+    <string name="status_inactive">Service is INACTIVE</string>
+    <string name="open_settings">Open Notification Settings</string>
+</resources>
